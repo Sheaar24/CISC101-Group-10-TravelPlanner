@@ -1,5 +1,5 @@
 Change Log (2025-11-05):
-– Added indoor-backup rule for weather-sensitive days.
+– Added rule to highlight activities that match the user’s preferred time of day.
 
 Create a short list of candidate activities (e.g., attractions, restaurants, parks).  
 Each activity includes type, estimated duration, cost range, and distance.
@@ -11,4 +11,4 @@ for each day:
     pick Midday activity (close by)  
     pick Afternoon activity (different theme)  
     pick Evening restaurant or optional event
-    If the user is traveling in a rainy or cold season, ensure each day includes at least one indoor backup activity before finalizing the plan.
+    When building the daily schedule, prioritize activities that match the user’s preferred time of day (morning, afternoon, or evening) to improve user satisfaction and plan alignment with their routine.
