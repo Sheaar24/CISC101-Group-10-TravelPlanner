@@ -1,3 +1,4 @@
+Add confirmations on the number of travelers, destination(s), Dates or trip length, and confirm constraints and interests:
 Collect essential details:
 
 - Destination(s)
