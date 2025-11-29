@@ -1,6 +1,6 @@
 Collect essential details:
 
-- Destination(s
+- Destination(s)
 - Dates or trip length
 - Number of travelers
 - Budget style (affordable, mid-range, luxury)
